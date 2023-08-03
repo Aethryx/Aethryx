@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I'm currently learning computer science
+- I love anything computer related
+- I want to start my own small business related to computer science
 <!--
 **Aethryx/Aethryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
